@@ -1,4 +1,4 @@
-// Copyright (c) 2019 Matsuru All rights reserved.
+// Copyright (c) 2019 Cameron All rights reserved.
 //
 // Created by: Cameron Teed
 // Created on: Nov 2019
